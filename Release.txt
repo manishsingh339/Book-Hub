@@ -1,0 +1,21 @@
+
+***********************	VERSION 0.1 ********************************************
+change log: Basic Implementation of book loading, searching, sorting and showing
+			the description after selecrting the book. 
+
+Known issues: 
+	# Sorting by price has some moinor issues in some corner cases.
+	# Search by rating has some floating number issues. Like if search
+	  for rating 2 this search will come 2.1, 2.4, 3.2(3.2 should not come).
+
+Up Coming freature: 
+	1. List view and grid view support. User can choose one of them.  
+	2. Bookmark Support for the user. If user will select some book then system
+		store that.
+	3. Better user interface to shhow book description.
+
+********************************************************************************
+			1
+
+
+
